@@ -1,6 +1,6 @@
 <h2 align="center">
   Alejandro Rios Jacobo - Portfolio<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">Portfolio</a>
+  <a href="https://arjportfolio.vercel.app/" target="_blank">Portfolio</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -20,9 +20,9 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/byalejr/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/byalejr/Portfolio/issues">Request Feature</a>
 </h3>
 
 

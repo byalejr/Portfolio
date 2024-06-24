@@ -25,8 +25,8 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              title="Expo Culture"
+              description="website for an event organized in Romania to be able to share about the culture of all the countries of the world and share about food, culture, traditions in which there was an online payment gateway"
             />
           </Col>
 
@@ -34,8 +34,8 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              title="Nueva Esperanza "
+              description="a web application for a heavy transport union in charge of managing the entire company, its contract assignment processes, settling accounts, managing all the data of its members and cars in order to have the entire company organized in an optimal way"
               
             />
           </Col>
@@ -44,8 +44,8 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              title="Fundación Porvenir"
+              description="website for a foundation in charge of teaching and supporting low-income students as well as supporting their family, not only financial support but also training them as a person"
                           
             />
           </Col>
@@ -54,8 +54,8 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
+              title="Farmacia Vida Sana"
+              description="Web application for a pharmacy in which they can offer online consultation services at home, both consultations and delivery of health products and an integrated online store."
               
             />
           </Col>
@@ -64,8 +64,8 @@ function Projects() {
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
+              title="AgroBol"
+              description="website for an agronomic company that is responsible for growing food plants, creating landscapes for cultivation that offers services with packages included to have a variety of clients"
               
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
@@ -75,13 +75,18 @@ function Projects() {
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
+              title="Patitas Felices Vet"
+              description="website for a veterinarian that offers services, care and cuts at home as well as an e-commerce within the website in which they offer different products for the care of your pet."
               
             />
           </Col>
         </Row>
+        <h1 className="project-heading">
+          And <strong className="purple">Many More.... </strong>
+        </h1>
+        <p style={{ color: "white" }}>
+          on the way.
+        </p>
       </Container>
     </Container>
   );

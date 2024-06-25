@@ -1,6 +1,6 @@
 <h2 align="center">
   Alejandro Rios Jacobo - Portfolio<br/>
-  <a href="https://arjportfolio.vercel.app/" target="_blank">Portfolio</a>
+  <a href="https://alejrdev.vercel.app/" target="_blank">Portfolio</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -28,7 +28,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://arjportfolio.vercel.app/" target="_blank">Arjportfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://alejrdev.vercel.app/" target="_blank">Arjportfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 

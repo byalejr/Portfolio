@@ -36,7 +36,6 @@ function Projects() {
               isBlog={false}
               title="Nueva Esperanza "
               description="a web application for a heavy transport union in charge of managing the entire company, its contract assignment processes, settling accounts, managing all the data of its members and cars in order to have the entire company organized in an optimal way"
-              
             />
           </Col>
 
@@ -67,7 +66,6 @@ function Projects() {
               title="AgroBol"
               description="website for an agronomic company that is responsible for growing food plants, creating landscapes for cultivation that offers services with packages included to have a variety of clients"
               
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
 
